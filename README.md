@@ -1,4 +1,4 @@
-# 🛡️ IT Cybersecurity Roadmap 2026–2027
+# 🛡️ IT Cybersecurity Roadmap 2026–2028
 
 ![Roadmap](https://img.shields.io/badge/Roadmap-Cybersecurity-0A66C2)
 ![CompTIA](https://img.shields.io/badge/CompTIA-Path-EA3E23)
